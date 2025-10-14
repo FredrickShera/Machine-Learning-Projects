@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-Best of my machine learning projects. 
+This repository showcases the best of my machine learning projects, covering real-world applications like car sales prediction, fraud detection, and disease diagnosis. Each project demonstrates data preprocessing, model building, evaluation, and deployment. Explore, learn, and contribute to advancing intelligent data-driven solutions through clean, well-documented, and reproducible code.
